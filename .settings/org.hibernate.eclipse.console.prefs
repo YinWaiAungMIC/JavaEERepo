@@ -1,0 +1,7 @@
+<<<<<<< HEAD
+default.configuration=jpa-Assignment
+=======
+default.configuration=jpa-em-transaction
+>>>>>>> Java Assignment2
+eclipse.preferences.version=1
+hibernate3.enabled=true
